@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "added listingreviews count",
+  "releaseNotes": "no change",
   "usedFieldsName": "text,list",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.2",
+  "newVersion": "0.0.3",
   "pluginId": "371",
   "subCatList": "102105,102119,102118,102120",
   "multistepAuthUsedInAppList": "[]",
