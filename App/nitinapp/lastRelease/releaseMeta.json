@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "sameasv2",
-  "usedFieldsName": "list,text,dhq_split_button",
+  "releaseNotes": "ver6",
+  "usedFieldsName": "list,text,dhq_dropdown,dhq_split_button",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.5",
+  "newVersion": "0.0.6",
   "pluginId": "376",
   "subCatList": "102122,102125",
   "multistepAuthUsedInAppList": "[]",
