@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "ver2",
-  "usedFieldsName": "list,text,dhq_split_button",
+  "releaseNotes": "ver3",
+  "usedFieldsName": "list,text,dhq_split_button,dhq_dropdown",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.2",
+  "newVersion": "0.0.3",
   "pluginId": "376",
   "subCatList": "102122,102125",
   "multistepAuthUsedInAppList": "[]",
