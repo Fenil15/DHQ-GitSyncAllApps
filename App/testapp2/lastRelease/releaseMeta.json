@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "ver4",
+  "releaseNotes": "ver5",
   "usedFieldsName": "text,numeric,dhq_json_viewer,list",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.4",
+  "newVersion": "0.0.5",
   "pluginId": "404",
   "subCatList": "102475,102478,102479,102483,102484,102485,102486,102487,102488",
   "multistepAuthUsedInAppList": "[]",
