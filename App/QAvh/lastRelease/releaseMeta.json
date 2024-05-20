@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "asdf",
-  "usedFieldsName": "numeric,Button1,dhq_json_editor,text",
+  "releaseNotes": "aasdfg",
+  "usedFieldsName": "text,Button1,numeric,dhq_json_editor",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.1",
+  "newVersion": "0.0.2",
   "pluginId": "407",
   "subCatList": "101871,101708,1050,1188",
   "multistepAuthUsedInAppList": "[]",
