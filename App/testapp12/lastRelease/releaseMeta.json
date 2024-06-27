@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "ver2",
+  "releaseNotes": "ver3",
   "usedFieldsName": "Button1,dhq_json_viewer,text,numeric,dhq_json_editor",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.2",
+  "newVersion": "0.0.3",
   "pluginId": "429",
   "subCatList": "103112,103114,103115,103116,100217,101936,102481,103119,103130,103131,103134,103136",
   "multistepAuthUsedInAppList": "[]",
