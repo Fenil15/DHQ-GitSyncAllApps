@@ -4,7 +4,7 @@
   "usedFieldsName": "Button1,text,list,dhq_advance_dropdown,dhq_dropdown",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.1",
+  "newVersion": "0.0.2",
   "pluginId": "370",
   "subCatList": "102388,102112,102282,102340,102341",
   "multistepAuthUsedInAppList": "[]",
