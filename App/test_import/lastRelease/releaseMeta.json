@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "test",
+  "releaseNotes": "testing",
   "usedFieldsName": "dhq_markdown_viewer,grid_panel,list,dhq_nav_bar,Image_Box,Header,text,numeric,Paragraph,dhq_user_details,dhq_tabs",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.1",
+  "newVersion": "0.0.2",
   "pluginId": "1830",
   "subCatList": "1003764,1003765",
   "multistepAuthUsedInAppList": "[]",
