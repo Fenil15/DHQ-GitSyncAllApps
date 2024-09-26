@@ -1,6 +1,6 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "trying git sync",
+  "releaseNotes": "trying git",
   "usedFieldsName": "text,Button1,dhq_dropdown",
   "metadata": "{}",
   "env": "prod",
