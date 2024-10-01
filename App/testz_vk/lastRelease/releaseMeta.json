@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "tt",
+  "releaseNotes": "o\n",
   "usedFieldsName": "Button1,text,dhq_kanban,tray,dhq_card_grid,list,image_upload,row,column,Header,dhq_icon,dhq_smart_label,timepicker,spacer,dhq_graphs,grid_panel,dhq_metric,dhq_advance_dropdown,dhq_dashboard,phone,Paragraph",
   "metadata": "{}",
   "env": "prod",
-  "newVersion": "0.0.4",
+  "newVersion": "0.0.5",
   "pluginId": "63",
   "subCatList": "",
   "multistepAuthUsedInAppList": "[]",
